@@ -15,7 +15,7 @@ Attributes:
     music (music artist's name in singlish),
     genre,
     song (sinhala lyric of the song)
-    rating
+    total_visits (Number of visits on the song as shown in the webpage)
     
     
     
